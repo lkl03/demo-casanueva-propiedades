@@ -1,2 +1,7 @@
-# demo-casanueva-propiedades
-Demo web para CASANUEVA PROPIEDADES — diseñada por eterlab.
+# CASANUEVA PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
